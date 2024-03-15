@@ -21,7 +21,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Data Science<br>🔧 Notion, Canva</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Data Science<br>🔧 Notion, Canva, Tableau</p>
 
 ###
 
