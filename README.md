@@ -4,7 +4,7 @@
 
 <p align="left">My name is Oto, and I'm a Computer Science Student from Mexico City.</p>
 <p align="left"> Data Analyst Jr. Data Analytics Professional Certificate by Google. Programming Skills with Python, R and SQL (entry-level). Tools: Excel, Tableau and Power BI.
-Network Technician Career by Cisco.</p>
+Network Technician Career by Cisco. Actually working at PepsiCo</p>
 
 ###
 
